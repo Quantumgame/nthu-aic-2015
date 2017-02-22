@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='C-2009.09-SP1 32-BIT'
+.TITLE '**analog_hw3_1_b**'
+ gain0            freq             temper           alter#            
+    6.9847         8.950e+07         25.0000           1.0000         

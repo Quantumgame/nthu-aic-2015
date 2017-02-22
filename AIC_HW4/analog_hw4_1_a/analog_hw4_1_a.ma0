@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='C-2009.09-SP1 32-BIT'
+.TITLE '**analog_hw4_1_a**'
+ thermal_noise_0  corner_freqency  pole_frequency   temper            
+ alter#            
+  4.406e-05        168.4051         3.497e+05         25.0000         
+    1.0000         

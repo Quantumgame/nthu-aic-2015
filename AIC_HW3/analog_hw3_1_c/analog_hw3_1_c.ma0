@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='C-2009.09-SP1 32-BIT'
+.TITLE '**analog_hw3_1_c**'
+ result0          result           temper           alter#            
+  9.908e-03          failed          25.0000           1.0000         
